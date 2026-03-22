@@ -346,9 +346,9 @@ The cost of adding AI to VICIdial breaks down into:
 - **AI platform costs**: Typically $0.05-0.15/min depending on the provider, volume, and which STT/LLM/TTS models are used
 - **VICIdial infrastructure**: No additional cost — you're using existing capacity
 - **Telephony**: With direct SIP registration, there's no per-minute relay cost. If you go through a SIP trunk provider, add their per-minute rate
-- **Offset savings**: Reduced human agent hours. If an AI agent handles the first 60 seconds of every call and only transfers qualified leads, your human agents are dramatically more productive
+- **Offset savings**: Reduced human agent hours. If an AI agent handles the first 60 seconds of every call and only transfers qualified leads, your human agents are much more productive
 
-At scale, the economics are compelling. A 10-seat human team at $12/hour costs ~$250K/year. An AI front-end handling first contact at $0.10/min, processing 50,000 minutes/month, costs ~$60K/year — and your human team can be smaller because they're only handling qualified transfers.
+At scale, the economics work. A 10-seat human team at $12/hour costs ~$250K/year. An AI front-end handling first contact at $0.10/min, processing 50,000 minutes/month, costs ~$60K/year — and your human team can be smaller because they're only handling qualified transfers.
 
 ---
 
